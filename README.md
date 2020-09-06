@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### My Ranks
+[![trophy](https://github-profile-trophy.vercel.app/?username=TusharSharmaIN)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **TusharSharmaIN/TusharSharmaIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
