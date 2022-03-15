@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/tusharsharmain](https://dev.to/tusharsharmain)
 
+- 🌐 My Website [https://tusharsharmain.github.io](https://tusharsharmain.github.io)
+
 - 💬 Ask me about **UI/UX, Git, Frontend**
 
 - 📫 Contact me at **tushars500@gmail.com**
