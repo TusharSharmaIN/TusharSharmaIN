@@ -5,19 +5,40 @@
 
 <p align="left"> <a href="https://twitter.com/tusharsharmain" target="blank"><img src="https://img.shields.io/twitter/follow/tusharsharmain?logo=twitter&style=for-the-badge" alt="tusharsharmain" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+### Past Works as Software Engineer (Flutter)
+- 🚀 Developed Jombay Assessments app with 1k+ downloads, offering various assessments and live proctoring.
+- 🎥 Led multimedia response submission, integration, APK distribution, and Crashlytics integration.
+- 🗓 Created interview slot booking feature and conducted a POC on an online group meeting app with Azure Communication Services.
 
-- 👨‍💻 All of my projects are available at [https://github.com/TusharSharmaIN](https://github.com/TusharSharmaIN)
+## Skills
+- **Languages:** Dart, Python, C/C++, Java (basic)
+- **Frameworks:** Flutter (Android, iOS), Ruby on Rails (basic)
+- **Databases:** Realm (Project), MongoDB (MongoDB Atlas)
+- **Flutter Libraries:** dio, provider, camera, permission_handler, video_player, audioplayers, webview
+  (Also worked on): flutter_html, html_editor, flutter_local_notification, firebase_core, firebase_crashlytics
+- **Tools, IDEs & Platform:** Git/Github, Android Studio, Postman, Firebase, Figma
+- **Misc:** ChatGPT, Agile (Scrum), Debugging, Data Structures & Algorithm, Open Source
 
-- 📝 I regularly write articles on [https://dev.to/tusharsharmain](https://dev.to/tusharsharmain)
+## Projects
+- 🌐 [Contact Me Page](https://bit.ly/4bhTcH1): Built using AWS Lambda, SES, API Gateway, and CloudWatch for message delivery. Monitored with CloudWatch, ensured security with IAM, and integrated seamlessly with Web Tools.
+- 📋 [Simple CRUD App List-Keeping](https://bit.ly/3S6jcgS): Developed a list-keeping app with Flutter, Realm, and Design Patterns.
+- 🎬 [A Movie Database App](https://bit.ly/3HaqIAY): Movie database app using Flutter, BLoC, and TMDB API.
+- 🔄 [Algorithms Visualizer](https://bit.ly/3TMcFt1): React-based visualizer illustrating popular algorithms.
+- 📊 [Sorting Visualizations](https://bit.ly/47oHWW8): Visualizations of Sorting Algorithms.
+- 🎨 [Daily UI](https://bit.ly/47ss2tV): 100 Days of UI Building challenge using Figma and Adobe XD.
 
-- 🌐 My Website [https://tusharsharmain.github.io](https://tusharsharmain.github.io)
+## Awards
+- 🏆 Winner (Jombay Hackathon), 2 Times Hacktoberfest Qualified, Silver Medal (Design and Analysis of Algorithms), Silver Medal - DBMS, Topper (Programming in C), GATE 2021 Qualified
 
-- 💬 Ask me about **UI/UX, Git, Frontend**
+## Education
+- 🎓 Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India
+- 📚 B. Tech Computer Science and Engineering | (I Div - Hons) | Aug 2017 - Aug 2021
 
+## About and Contacts
 - 📫 Contact me at **tushars500@gmail.com**
-
-- 📄 My Resume [https://tinyurl.com/44bbf2yt](https://tinyurl.com/44bbf2yt)
+- 📄 My Resume [https://bit.ly/3OlNQ3p](https://bit.ly/3OlNQ3p)
+- 🌐 My Website [https://tusharsharmain.github.io](https://tusharsharmain.github.io)
+- 📝 I regularly write articles on [https://dev.to/tusharsharmain](https://dev.to/tusharsharmain)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
