@@ -36,7 +36,7 @@
 
 ## About and Contacts
 - 📫 Contact me at **tushars500@gmail.com**
-- 📄 My Resume [https://bit.ly/3OlNQ3p](https://bit.ly/3TyF6Jl)
+- 📄 My Resume [https://bit.ly/3TyF6Jl](https://bit.ly/3TyF6Jl)
 - 🌐 My Website [https://tusharsharmain.github.io](https://tusharsharmain.github.io)
 - 📝 I regularly write articles on [https://dev.to/tusharsharmain](https://dev.to/tusharsharmain)
 
